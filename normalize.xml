@@ -1,6 +1,6 @@
 <tool id="PICRUSt_normalize" name="Normalize By Copy Number" version="1.0.0">
 <description></description>
-<command interpreter="python">$GALAXY_ROOT_DIR/tools/picrust_galaxy/scripts/normalize_by_copy_number.py 
+<command interpreter="python">$GALAXY_ROOT_DIR/tools/picrust/scripts/normalize_by_copy_number.py 
 -i /$inp_data 
 -o $out_file1
 -g $gg_version

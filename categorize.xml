@@ -1,6 +1,6 @@
 <tool id="PICRUSt_categorize" name="Categorize by function" version="1.0.0">
 <description></description>
-<command interpreter="python">$GALAXY_ROOT_DIR/tools/picrust_galaxy/scripts/categorize_by_function.py  
+<command interpreter="python">$GALAXY_ROOT_DIR/tools/picrust/scripts/categorize_by_function.py  
 -i $inp_data
 -c "KEGG_Pathways"
 -l $SelectionNumber

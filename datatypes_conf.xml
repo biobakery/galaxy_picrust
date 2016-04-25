@@ -1,0 +1,5 @@
+    <datatype extension="picrust" type="galaxy.datatypes.binary:Binary" subclass="true" display_in_upload="true"/>
+    <datatype extension="picrustn" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="false"/>
+    <datatype extension="picrustp" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="false"/>
+    <datatype extension="picrustc" type="galaxy.datatypes.data:Text" subclass="true" display_in_upload="false"/>
+
